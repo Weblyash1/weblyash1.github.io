@@ -40,6 +40,8 @@ padding-left: 55px;
 padding-right: 55px;
 padding-bottom: 17px;
 margin-top: 33px;
+display: inline-block;
+text-decoration: none;
 }
 header small{
 	font-size: 12px;
@@ -143,6 +145,8 @@ text-align: center;
 	color: #fff;
 	border-radius: 50px;
 	padding: 12px 40px;
+	display: inline-block;
+text-decoration: none;
 }
 .footer-cta-block{
 	text-align: center;
